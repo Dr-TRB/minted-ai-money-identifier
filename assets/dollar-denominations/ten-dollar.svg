@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Educational ten dollar card">
+  <rect width="900" height="620" rx="34" fill="#fbf2df"/>
+  <rect x="48" y="48" width="804" height="524" rx="28" fill="#fffaf0" stroke="#c07b21" stroke-width="10"/>
+  <rect x="88" y="88" width="724" height="444" rx="22" fill="none" stroke="#dfba78" stroke-width="4" stroke-dasharray="18 14"/>
+  <text x="450" y="250" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="168" font-weight="900" fill="#a46418">$10</text>
+  <text x="450" y="340" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="#59401c">Ten Dollar</text>
+  <text x="450" y="438" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#806a43">EDUCATIONAL SAMPLE</text>
+  <text x="450" y="480" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#9c8b6b">NOT LEGAL TENDER</text>
+</svg>
